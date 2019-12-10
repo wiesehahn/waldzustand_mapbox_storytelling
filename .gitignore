@@ -64,3 +64,4 @@ typings/
 # development config.js files
 /src/vanilla-js/config.js
 /src/react-js/src/config.js
+.Rproj.user
